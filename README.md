@@ -77,4 +77,14 @@ Customer Support Specialist · Customer Experience Specialist · Customer Servic
 
 ## Contact
 
-Add your preferred professional email address and LinkedIn profile here before making this repository public.
+Contact
+
+Peter Mbagwu
+
+* Email: peterclinton39@gmail.com
+* LinkedIn:https:https://www.linkedin.com/in/petermbagwu
+* GitHub: https://github.com/Peteclint
+
+Feel free to connect with me regarding Customer Support, Customer Experience, Customer Success, and Support Operations opportunities.
+
+ 
